@@ -13,3 +13,5 @@ for i in arr:
         break
 else:
     print("Element Not Found")
+
+print("Loops are fun")
